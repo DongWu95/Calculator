@@ -11,14 +11,27 @@ public class Test {
 
 
 
+//
+//        StringBuffer buffer = new StringBuffer();
+//
+//        buffer.append("a");
+//        buffer.setLength(0);
+//
+//        if(buffer.toString().equals(""))
+//            System.out.println("ok");
+        int i =7;
+        int j =9;
 
-        StringBuffer buffer = new StringBuffer();
 
-        buffer.append("a");
-        buffer.setLength(0);
 
-        if(buffer.toString().equals(""))
-            System.out.println("ok");
+        if( i == 7)
+            if(j == 9)
+                System.out.println("haha");
+
+
+
+
+
 
 
 
